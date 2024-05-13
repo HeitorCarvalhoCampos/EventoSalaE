@@ -1,3 +1,5 @@
 Eu amo devops
 db.opinioes.aggregate([{$match:{devops:{$not:"Amo"}}}])
 
+
+
